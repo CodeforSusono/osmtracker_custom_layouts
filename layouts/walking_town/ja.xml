@@ -13,8 +13,8 @@
 		</row>
 		<row>
             <button type="page" label="橋..." targetlayout="橋" />
-			<button type="tag" label="病院" icon="walking_town_icons/button_amenity_doctors" />
-            <button type="tag" label="ベンチ" icon="walking_town_icons/button_misc_bench" />
+			<button type="tag" label="病院" icon="walking_town_icons/button_amenity_doctors.png" />
+            <button type="tag" label="ベンチ" icon="walking_town_icons/button_misc_bench.png" />
 		</row>
 		<row>
 			<button type="tag" label="自販機" />
@@ -31,7 +31,7 @@
         <row>
             <button type="tag" label="ATM" />
             <button type="tag" label="AED" />
-            <button type="tag" label="トイレ" icon="walking_town_icons/button_misc_toilets" />
+            <button type="tag" label="トイレ" icon="walking_town_icons/button_misc_toilets.png" />
         </row>
         <row>
             <button type="tag" label="FreeWiFi" />
@@ -85,8 +85,8 @@
     <!-- 橋 -->
     <layout name="橋">
         <row>
-            <button type="tag" label="橋開始" />
-            <button type="tag" label="橋終了" />
+            <button type="tag" label="橋開始" icon="walking_town_icons/button_way_bridge.png" />
+            <button type="tag" label="橋終了" icon="walking_town_icons/button_way_bridge.png" />
         </row>
         <row>
             <button type="picture" icon="camera_32x32" />
