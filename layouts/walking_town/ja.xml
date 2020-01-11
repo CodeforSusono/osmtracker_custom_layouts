@@ -12,7 +12,7 @@
 			<button type="page" label="塀..." targetlayout="塀" />
 		</row>
 		<row>
-            <button type="page" label="橋..." targetlayout="橋" />
+            <button type="page" label="橋..." targetlayout="橋" icon="walking_town_icons/button_way_bridge.png" />
 			<button type="tag" label="病院" icon="walking_town_icons/button_amenity_doctors.png" />
             <button type="tag" label="ベンチ" icon="walking_town_icons/button_misc_bench.png" />
 		</row>
